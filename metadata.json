@@ -1,0 +1,6 @@
+{
+  "name": "Sri Vinayaga Traders | Billing & Inventory POS",
+  "description": "Smart shop billing and stock management POS with quotation, cash bills, purchase cost tracking, and tiered pricing for engineers, electricians, and retail customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

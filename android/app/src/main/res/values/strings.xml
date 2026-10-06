@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sri Vinayaga Traders</string>
+    <string name="title_activity_main">Sri Vinayaga Traders</string>
+    <string name="package_name">com.srivinayagatraders.pos</string>
+    <string name="custom_url_scheme">com.srivinayagatraders.pos</string>
+</resources>
